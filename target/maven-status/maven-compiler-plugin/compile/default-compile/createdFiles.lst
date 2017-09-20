@@ -1,0 +1,6 @@
+com/example/StockRepository.class
+com/example/Stock.class
+com/example/exceptions/StockNotSavedException.class
+com/example/JpaTddExceptionsApplication.class
+com/example/exceptions/StockNotFoundException.class
+com/example/StockController.class
